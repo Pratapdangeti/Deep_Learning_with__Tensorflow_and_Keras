@@ -1,6 +1,6 @@
 ## Deep_Learning_with__Tensorflow_and_Keras
 
-This repository is for the book `Deep_Learning_with__Tensorflow_and_Keras` which will be published soon!
+This repository is for the book `Deep_Learning_with_Tensorflow_and_Keras` which will be published soon!
 
 ```
 Chapter 1: Fundamentals of Artificial Intelligence & Deep Learning    
