@@ -1,6 +1,9 @@
 ## Deep_Learning_with__Tensorflow_and_Keras
 
-This repository is for the book `Deep_Learning_with_Tensorflow_and_Keras` which will be published soon!
+This repository is for the book "Deep_Learning_with__Tensorflow_and_Keras" which got published by Wiley India on May 2020. 
+
+You can purchase the book from [Amazon India](https://www.amazon.in/Learning-TensorFlow-Keras-Pratap-Dangeti-ebook/dp/B089DGN2JR/ref=sr_1_4?dchild=1&keywords=pratap+dangeti&qid=1591283136&sr=8-4) or [Amazon](https://www.amazon.com/Learning-TensorFlow-Keras-Pratap-Dangeti-ebook/dp/B089DGN2JR/ref=sr_1_1?dchild=1&keywords=pratap+dangeti&qid=1591283178&sr=8-1)
+
 
 ```
 Chapter 1: Fundamentals of Artificial Intelligence & Deep Learning    
