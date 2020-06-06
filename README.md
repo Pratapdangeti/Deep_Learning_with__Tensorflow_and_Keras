@@ -20,14 +20,14 @@ Chapter 3: Getting started with TensorFlow
 
 Chapter 4: Getting started with  Keras 
 
-Chapter 5: Structured Data processing with Deep Learning Models
+Chapter 5: Structured Data processing with Deep Learning 
 
 Chapter 6: Image processing with Deep Learning 
 
-Chapter 7: Natural Language processing & Text Analysis with Deep Learning
+Chapter 7: Natural Language processing and Text Analysis with Deep Learning
 
 Chapter 8: Unsupervised Learning and GANs with Deep Learning
 
-Chapter 9: Best practices in Deep Learning & Introduction of Deep Reinforcement 
+Chapter 9: Best practices in Deep Learning & Introduction of Deep Reinforcement Learning
 
 ```
